@@ -1,0 +1,8 @@
+// Junta "custom/ubermensch" a um dos modules-left/center/right do ~/.config/waybar/config.jsonc
+// e este bloco ao resto dos módulos
+"custom/ubermensch": {
+  "exec": "ubermensch estado",
+  "return-type": "json",
+  "signal": 8,
+  "on-click": "ubermensch off"
+}

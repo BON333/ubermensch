@@ -68,3 +68,7 @@ Se um tema do Omarchy tiver o seu próprio `backgrounds/End.jpg`, é esse que o 
 | `dados/End.jpg` | Fundo |
 | `install.sh` | Instalação na home |
 | `exemplos/` | Trechos de configuração |
+
+## Licença
+
+[MIT](LICENSE).

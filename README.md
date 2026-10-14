@@ -148,6 +148,10 @@ quando atualizares; para mudanças permanentes, altera-os em `dados/` no reposit
 | `install.sh` | Instalação e desinstalação na home |
 | `exemplos/` | Trechos de configuração para Hyprland, Ghostty, waybar e hyprlock |
 
+## Criadores
+
+Criado por **Hussein** ([BON333](https://github.com/BON333)) e **Kleyton** ([Mente-MiIionaria](https://github.com/Mente-MiIionaria)).
+
 ## Licença
 
 [MIT](LICENSE).
